@@ -14,3 +14,7 @@ These additional references should also help you:
 
 ### Additional Configuration:
 In DocumentModel there is a Column called String "data", to store the data correctly it is necessary that after the tables are created in the database, search for the table called "documents" and look for the "data" field and change the data type to "text".
+
+
+### Test the API'S in postman:
+https://documenter.getpostman.com/view/14346707/2sA2rGtJj5
